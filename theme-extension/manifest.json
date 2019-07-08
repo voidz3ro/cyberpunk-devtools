@@ -1,16 +1,16 @@
 {
-	"name": "Dank Neon DevTools Theme",
-	"short_name": "A danker, more neon theme for Chrome Devtools",
-	"version": "2.1",
+	"name": "2077 DevTools Theme",
+	"short_name": "A saucy Cyberpunk2077 theme for Chrome Devtools",
+	"version": "0.1",
 	"description":
-		"A danker, more neon theme.",
+		"A saucy Cyberpunk2077 theme for Chrome Devtools",
 	"devtools_page": "devtools.html",
 	"manifest_version": 2,
 	"content_security_policy":
 		"script-src 'self' https://www.google-analytics.com; object-src 'self'",
 	"icons": {
-		"16": "images/icon16.png",
-		"48": "images/icon48.png",
-		"128": "images/icon128.png"
+		"16": "images/icon16.jpg",
+		"48": "images/icon48.jpg",
+		"128": "images/icon128.jpg"
 	}
 }
